@@ -1,3 +1,3 @@
-# Harbor UI
+# BuildIt API
 
-A portal for creating, viewing and managing Shipments.
+A service for managing Docker build plans.
